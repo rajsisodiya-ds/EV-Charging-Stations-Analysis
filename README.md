@@ -79,5 +79,5 @@ ev-charging-network-analysis/
 - Statistical Analysis for pattern recognition
 
 ## Author
-- GitHub: [@theshibili](https://github.com/theshibili)
-- Project Repository: [Ev-charging-stations-network-analysis](https://github.com/theshibili/ev-charging-stations-network-analysis)
+-GitHub: @rajsisodiya-ds
+-Project Repository: EV-Charging-Stations-Analysis
